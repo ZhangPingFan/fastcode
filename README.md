@@ -1,7 +1,8 @@
 # fastcode
 A code editor in pocket
 
-
+# Download
+[click here](https://itunes.apple.com/cn/app/fastcode-code-in-your-pocket/id1441653112?mt=8)
 
 # Technical Support 
 
