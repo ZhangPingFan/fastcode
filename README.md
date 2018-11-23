@@ -6,7 +6,7 @@ A code editor in pocket
 
 # Technical Support 
 
-Email：geekheart@foxmail.com
+Email: geekheart@foxmail.com
 
 Tel: +86 18124667368
 
